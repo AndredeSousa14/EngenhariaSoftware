@@ -8,4 +8,4 @@ Projeto Website Engenharia de Software
 
 [Quem somos?](https://github.com/AndredeSousa14/EngenhariaSoftware/wiki/Quem-somos)
 
-
+[Análise de Mercado](https://github.com/AndredeSousa14/EngenhariaSoftware/wiki/An%C3%A1lise-de-Mercado)
